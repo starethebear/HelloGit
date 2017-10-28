@@ -6,7 +6,8 @@ public class HelloGit {
 		// TODO Auto-generated method stub
 		//hello
 		//this is a comment
-		return "Hello Bit! (it's different now)";
+		return "Hello Git! (it's different now) s";
+		//This is such an efficient program now
 	}
 
 }
